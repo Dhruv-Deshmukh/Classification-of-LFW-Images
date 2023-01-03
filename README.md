@@ -1,2 +1,1 @@
 # Classification-of-LFW-Images
-.
